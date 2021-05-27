@@ -1,0 +1,26 @@
+{
+  "name": "git-basic",
+  "version": "1.0.0",
+  "description": "latihan git biar pro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cepiherd/git-basic.git"
+  },
+  "keywords": [
+    "biar",
+    "makin",
+    "keren",
+    "dan",
+    "berkah"
+  ],
+  "author": "cepi herdiansyah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cepiherd/git-basic/issues"
+  },
+  "homepage": "https://github.com/cepiherd/git-basic#readme"
+}
