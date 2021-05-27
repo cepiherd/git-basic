@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/cepiherd/git-basic/issues"
   },
-  "homepage": "https://github.com/cepiherd/git-basic#readme"
+  "homepage": "https://github.com/cepiherd/git-basic#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
